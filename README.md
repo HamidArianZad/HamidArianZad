@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hamid
+- 👋 Hi, I’m @HamidArianZad
 - 👀 I’m interested in Quantum magnetism, Neural networks, Machine learning, Computational physics
 
 <!---
